@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection-Kaggle-competition-
-A Kaggle competition: A classification problem for predicting credit card fraud
+A Kaggle competition: A classification problem for predicting credit card fraud (https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 Main algorithms: 
   1) SMOTE: in order to remedy severe class imbalances via supersampling of minority class (positive class: 1)
